@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Мета модель"
+    id="id-5073f1248b464928990dbf0800ea96a0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e31b106010e74813a428d2fbc1fb133b">
+    <bounds
+        x="186"
+        y="185"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-170fd1ad1c4144bbab27231dc22773d7.xml#id-170fd1ad1c4144bbab27231dc22773d7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3e6c58b8717c49bfa51803b34a0380cf">
+    <bounds
+        x="456"
+        y="185"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-685b7a7a03dc444cbe43b31f054e0af0.xml#id-685b7a7a03dc444cbe43b31f054e0af0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
