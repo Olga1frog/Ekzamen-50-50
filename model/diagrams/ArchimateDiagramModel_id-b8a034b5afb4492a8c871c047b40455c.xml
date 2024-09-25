@@ -535,7 +535,7 @@
     </sourceConnections>
     <bounds
         x="1164"
-        y="372"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -691,7 +691,7 @@
       targetConnections="id-720a794314c44e69b4a43234ba60968c">
     <bounds
         x="1308"
-        y="384"
+        y="396"
         width="97"
         height="55"/>
     <archimateElement
@@ -704,7 +704,7 @@
       targetConnections="id-264d43def9de40398d7a1e00ca66ceb5">
     <bounds
         x="1416"
-        y="384"
+        y="396"
         width="97"
         height="55"/>
     <archimateElement
