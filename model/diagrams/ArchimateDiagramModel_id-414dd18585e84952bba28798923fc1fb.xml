@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Бизнес процесс функциональный"
+    name="Бизнес процесс учет и планирование"
     id="id-414dd18585e84952bba28798923fc1fb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
