@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Настройка базы 1 в приоритете"
+    id="id-e763607dfd6c489a970ca8e2bbda844f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-128047fa009d411c9ea7b336c47ba34d.xml#id-128047fa009d411c9ea7b336c47ba34d"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-178969d9739b4c90a41558c73f9f3bda.xml#id-178969d9739b4c90a41558c73f9f3bda"/>
+</archimate:TriggeringRelationship>
